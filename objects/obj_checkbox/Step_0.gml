@@ -1,0 +1,1 @@
+sprite_index = checked ? spr_check_box_checked : spr_check_box_unchecked

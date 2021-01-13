@@ -1,0 +1,1 @@
+visible = obj_controller.mobile_checkbox.checked and ((top and obj_controller.top_active) or (!top and obj_controller.bottom_active))

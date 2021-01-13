@@ -1,0 +1,1 @@
+if(!obj_menu_controller.dropdown_open) room_goto(rm_tutorial)
