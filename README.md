@@ -1,5 +1,7 @@
 # Chord
 
+Play Chord here: https://tomdomgames.itch.io/chord
+
 <strong>Concept</strong>
 
 Sudoku-like puzzle game. Fill in the correct numbers to solve the puzzle.
